@@ -1,0 +1,14 @@
+
+# Mac files
+.DS_Store
+
+# Virtualenv
+bin/
+include/
+lib/
+pip-selfcheck.json
+
+# Python
+__pycache__
+.idea
+.Python
